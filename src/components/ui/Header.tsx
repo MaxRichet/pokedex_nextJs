@@ -9,10 +9,10 @@ export default function Header() {
         <nav>
             <ul className='flex space-x-4'>
                 <li>
-                    <Link href={"/"}>Lien1</Link>
+                    <Link href={"/"}>Accueil</Link>
                 </li>
                 <li>
-                    <Link href={"/contact"}>Contact</Link>
+                    <Link href={"/pokemon"}>Pokemon</Link>
                 </li>
             </ul>
         </nav>
